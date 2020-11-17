@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d03cd2d1-4ca6-4b62-83f5-692c9c1d4f75" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1kPYMKS6nRxt5rVMOIwXSTFQW89" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java CWs/Financial Claculator (java CW 01)/w1790958" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Calculator" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d03cd2d1-4ca6-4b62-83f5-692c9c1d4f75" name="Default Changelist" comment="" />
+      <created>1605603644804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605603644804</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="370" y="253" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1605635253451">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="370" y="253" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.994@0.0.1280.994" timestamp="1605635253451" />
+    <state x="445" y="207" key="#com.intellij.ide.util.MemberChooser" timestamp="1605603668750">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="445" y="207" key="#com.intellij.ide.util.MemberChooser/0.0.1280.994@0.0.1280.994" timestamp="1605603668750" />
+    <state x="420" y="253" key="FileChooserDialogImpl" timestamp="1605631566281">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state x="420" y="253" key="FileChooserDialogImpl/0.0.1280.994@0.0.1280.994" timestamp="1605631566281" />
+    <state width="1237" height="267" key="GridCell.Tab.0.bottom" timestamp="1605636157429">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1237" height="267" key="GridCell.Tab.0.bottom/0.0.1280.994@0.0.1280.994" timestamp="1605636157429" />
+    <state width="1237" height="267" key="GridCell.Tab.0.center" timestamp="1605636157428">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1237" height="267" key="GridCell.Tab.0.center/0.0.1280.994@0.0.1280.994" timestamp="1605636157428" />
+    <state width="1237" height="267" key="GridCell.Tab.0.left" timestamp="1605636157428">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1237" height="267" key="GridCell.Tab.0.left/0.0.1280.994@0.0.1280.994" timestamp="1605636157428" />
+    <state width="1237" height="267" key="GridCell.Tab.0.right" timestamp="1605636157429">
+      <screen x="0" y="0" width="1280" height="994" />
+    </state>
+    <state width="1237" height="267" key="GridCell.Tab.0.right/0.0.1280.994@0.0.1280.994" timestamp="1605636157429" />
+  </component>
+</project>
