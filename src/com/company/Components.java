@@ -53,7 +53,7 @@ public class Components {
     }
 
     //method for creating text fields
-    public static TextField creatingTextField(String promptTxt, Double x, Double y, Double prefHeight, Double PrefWidth) {
+    public static TextField creatingTextField(String promptTxt, int x, int y, int prefHeight, int PrefWidth) {
         TextField txtField = new TextField();
         txtField.setPromptText(promptTxt);
         txtField.setLayoutX(x);

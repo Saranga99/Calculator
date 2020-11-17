@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="609.0" prefWidth="382.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.company.Window">
+   <children>
+      <TextField prefHeight="147.0" prefWidth="400.0" />
+      <Button layoutY="147.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="1" />
+      <Button layoutX="80.0" layoutY="147.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="2" />
+      <Button layoutX="160.0" layoutY="147.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="3" />
+      <Button layoutX="80.0" layoutY="402.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="0" />
+      <Button layoutX="160.0" layoutY="317.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="9" />
+      <Button layoutX="80.0" layoutY="317.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="8" />
+      <Button layoutX="160.0" layoutY="232.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="6" />
+      <Button layoutX="80.0" layoutY="232.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="5" />
+      <Button layoutY="317.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="7" />
+      <Button layoutY="232.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="4" />
+      <Button layoutX="160.0" layoutY="402.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="." />
+      <Button layoutX="240.0" layoutY="147.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="+" />
+      <Button layoutX="240.0" layoutY="232.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="-" />
+      <Button layoutX="240.0" layoutY="317.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="*" />
+      <Button layoutX="240.0" layoutY="402.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="/" />
+      <Button layoutX="320.0" layoutY="147.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="CE" />
+      <Button layoutX="320.0" layoutY="232.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="C" />
+      <Button layoutX="320.0" layoutY="317.0" mnemonicParsing="false" prefHeight="85.0" prefWidth="80.0" text="=" />
+   </children>
+</AnchorPane>
