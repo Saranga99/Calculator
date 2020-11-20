@@ -23,7 +23,7 @@ public class Components {
         btn.setLayoutY(y);
         btn.setPrefHeight(prefHeight);
         btn.setPrefWidth(setPrefWidth);
-        //btn.setStyle("-fx-background-color:transparent; -fx-border-color:#F0F8FF;-fx-text-fill:#f5f7f7;-fx-font-size:2em;-fx-border-radius:20");
+        btn.setStyle("-fx-background-color:#000000; -fx-border-color:#F0F8FF;-fx-text-fill:#f5f7f7;-fx-font-size:2em;-fx-border-radius:20");
         return btn;
     }
 
@@ -60,7 +60,7 @@ public class Components {
         txtField.setLayoutY(y);
         txtField.setPrefWidth(PrefWidth);
         txtField.setPrefHeight(prefHeight);
-        txtField.setStyle("-fx-background-color:transparent; -fx-border-color:#B0C4DE;-fx-text-fill:#f5f7f7;-fx-font-size:1em;-fx-border-radius:10");
+        txtField.setStyle("-fx-background-color:#000000; -fx-border-color:#F0F8FF;-fx-text-fill:#f5f7f7;-fx-font-size:2em;-fx-border-radius:20");
         return txtField;
     }
 
